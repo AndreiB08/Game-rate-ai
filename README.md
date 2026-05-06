@@ -1,8 +1,23 @@
-# React + Vite
+# 🎮 GameRate AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicație web pentru descoperirea jocurilor și generarea de review-uri AI.
 
-Currently, two official plugins are available:
+## 🚀 Tehnologii
+- React (Vite)
+- Firebase Auth
+- Express.js
+- OpenAI API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Funcționalități
+- Login cu Firebase
+- Listă jocuri din API
+- Search jocuri
+- Review generat cu AI
+
+## ▶️ Run local
+
+Frontend:
+npm run dev
+
+Backend:
+node server.js

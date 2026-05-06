@@ -18,7 +18,7 @@ function App() {
 
       if (currentUser) {
         try {
-          const res = await fetch("http://localhost:5000/games");
+          const res = await fetch("https://game-rate-ai.onrender.com/games");
           const data = await res.json();
 
           const mappedGames = data.slice(0, 20).map((game) => ({
@@ -56,7 +56,7 @@ function App() {
     setAiReview("Generăm review-ul...");
 
     try {
-      const response = await fetch("http://localhost:5000/review", {
+      const response = await fetch("https://game-rate-ai.onrender.com/review", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
