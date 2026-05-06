@@ -68,12 +68,3 @@ https://www.freetogame.com/api-doc
 4. Utilizatorul poate genera un review AI pentru un joc.
 5. Backend-ul trimite un request catre OpenAI API.
 6. Review-ul generat este afisat in aplicatie.
-
----
-
-# Instalare Locala
-
-## 1. Clonarea repository-ului
-
-```bash
-git clone https://github.com/USERNAME/game-rate-ai.git
