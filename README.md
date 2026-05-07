@@ -3,7 +3,7 @@ Aplicație web pentru descoperirea jocurilor video și generarea review-urilor
 Buzagiu Andrei
 Grupa 1145 - SIMPRE
 Linkuri:
-Link video:
+Link video: https://youtu.be/aYTJ1vI0M10
 Link aplicație: https://game-rate-ai.vercel.app/
 Link GitHub: https://github.com/AndreiB08/Game-rate-ai.git
 
